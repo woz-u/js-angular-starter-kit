@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "webpack -p && node ./bin/www"
+    "start": "webpack && node ./bin/www"
   },
   "dependencies": {
     "angular": "^1.5.5",
